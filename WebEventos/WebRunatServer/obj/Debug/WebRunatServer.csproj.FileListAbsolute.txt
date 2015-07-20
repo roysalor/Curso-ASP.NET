@@ -1,6 +1,0 @@
-C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\WebEventos\WebRunatServer\bin\WebRunatServer.dll.config
-C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\WebEventos\WebRunatServer\bin\WebRunatServer.dll
-C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\WebEventos\WebRunatServer\bin\WebRunatServer.pdb
-C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\WebEventos\WebRunatServer\obj\Debug\WebRunatServer.csprojResolveAssemblyReference.cache
-C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\WebEventos\WebRunatServer\obj\Debug\WebRunatServer.dll
-C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\WebEventos\WebRunatServer\obj\Debug\WebRunatServer.pdb

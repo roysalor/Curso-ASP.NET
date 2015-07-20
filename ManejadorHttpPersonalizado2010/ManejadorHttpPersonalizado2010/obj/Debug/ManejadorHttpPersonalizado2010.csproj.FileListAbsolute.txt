@@ -1,4 +1,0 @@
-C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\ManejadorHttpPersonalizado2010\ManejadorHttpPersonalizado2010\bin\ManejadorHttpPersonalizado2010.dll
-C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\ManejadorHttpPersonalizado2010\ManejadorHttpPersonalizado2010\bin\ManejadorHttpPersonalizado2010.pdb
-C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\ManejadorHttpPersonalizado2010\ManejadorHttpPersonalizado2010\obj\Debug\ManejadorHttpPersonalizado2010.dll
-C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\ManejadorHttpPersonalizado2010\ManejadorHttpPersonalizado2010\obj\Debug\ManejadorHttpPersonalizado2010.pdb

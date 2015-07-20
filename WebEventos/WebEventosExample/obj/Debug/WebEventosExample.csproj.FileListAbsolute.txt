@@ -1,6 +1,0 @@
-C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\WebEventos\WebEventosExample\bin\WebEventosExample.dll.config
-C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\WebEventos\WebEventosExample\bin\WebEventosExample.dll
-C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\WebEventos\WebEventosExample\bin\WebEventosExample.pdb
-C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\WebEventos\WebEventosExample\obj\Debug\WebEventosExample.csprojResolveAssemblyReference.cache
-C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\WebEventos\WebEventosExample\obj\Debug\WebEventosExample.dll
-C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\WebEventos\WebEventosExample\obj\Debug\WebEventosExample.pdb

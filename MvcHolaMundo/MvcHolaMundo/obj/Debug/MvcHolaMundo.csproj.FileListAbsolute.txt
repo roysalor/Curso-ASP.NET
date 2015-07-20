@@ -1,4 +1,0 @@
-C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\MvcHolaMundo\MvcHolaMundo\bin\MvcHolaMundo.dll
-C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\MvcHolaMundo\MvcHolaMundo\bin\MvcHolaMundo.pdb
-C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\MvcHolaMundo\MvcHolaMundo\obj\Debug\MvcHolaMundo.dll
-C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\MvcHolaMundo\MvcHolaMundo\obj\Debug\MvcHolaMundo.pdb
