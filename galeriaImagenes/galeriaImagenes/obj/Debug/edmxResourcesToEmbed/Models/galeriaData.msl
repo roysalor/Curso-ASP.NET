@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TestClassModelStoreContainer" CdmEntityContainer="TestClassEntities">
+    <EntitySetMapping Name="imagenes">
+      <EntityTypeMapping TypeName="TestClassModel.imagenes">
+        <MappingFragment StoreEntitySet="imagenes">
+          <ScalarProperty Name="id_imagen" ColumnName="id_imagen" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="ruta" ColumnName="ruta" />
+          <ScalarProperty Name="tam" ColumnName="tam" />
+          <ScalarProperty Name="alto" ColumnName="alto" />
+          <ScalarProperty Name="ancho" ColumnName="ancho" />
+          <ScalarProperty Name="categoria" ColumnName="categoria" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="palabrasClaves" ColumnName="palabrasClaves" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

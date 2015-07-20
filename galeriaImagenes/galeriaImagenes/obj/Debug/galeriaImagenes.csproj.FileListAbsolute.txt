@@ -1,0 +1,4 @@
+C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\galeriaImagenes\galeriaImagenes\bin\galeriaImagenes.dll
+C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\galeriaImagenes\galeriaImagenes\bin\galeriaImagenes.pdb
+C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\galeriaImagenes\galeriaImagenes\obj\Debug\galeriaImagenes.dll
+C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\galeriaImagenes\galeriaImagenes\obj\Debug\galeriaImagenes.pdb

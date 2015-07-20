@@ -1,0 +1,6 @@
+c:\users\roberto ismael\documents\visual studio 2013\Projects\EjemploClases\EjemploClases\bin\EjemploClases.dll.config
+c:\users\roberto ismael\documents\visual studio 2013\Projects\EjemploClases\EjemploClases\bin\EjemploClases.dll
+c:\users\roberto ismael\documents\visual studio 2013\Projects\EjemploClases\EjemploClases\bin\EjemploClases.pdb
+c:\users\roberto ismael\documents\visual studio 2013\Projects\EjemploClases\EjemploClases\obj\Debug\EjemploClases.csprojResolveAssemblyReference.cache
+c:\users\roberto ismael\documents\visual studio 2013\Projects\EjemploClases\EjemploClases\obj\Debug\EjemploClases.dll
+c:\users\roberto ismael\documents\visual studio 2013\Projects\EjemploClases\EjemploClases\obj\Debug\EjemploClases.pdb

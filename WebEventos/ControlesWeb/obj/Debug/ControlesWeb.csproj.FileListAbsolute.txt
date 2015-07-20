@@ -1,0 +1,6 @@
+C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\WebEventos\ControlesWeb\bin\ControlesWeb.dll.config
+C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\WebEventos\ControlesWeb\bin\ControlesWeb.dll
+C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\WebEventos\ControlesWeb\bin\ControlesWeb.pdb
+C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\WebEventos\ControlesWeb\obj\Debug\ControlesWeb.csprojResolveAssemblyReference.cache
+C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\WebEventos\ControlesWeb\obj\Debug\ControlesWeb.dll
+C:\Users\Roberto Ismael\Source\Repos\CusoASP.NET\WebEventos\ControlesWeb\obj\Debug\ControlesWeb.pdb
