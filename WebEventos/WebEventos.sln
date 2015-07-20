@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebEventosExample", "WebEventosExample\WebEventosExample.csproj", "{542E43CF-4876-4418-9552-ED1449C461E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHtmlRunatServer", "WebRunatServer\WebHtmlRunatServer.csproj", "{0247D9E2-C354-451A-8538-1FE82FCB53DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlesWeb", "ControlesWeb\ControlesWeb.csproj", "{C625CAF9-863F-44E3-A5E3-560B92A24521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{542E43CF-4876-4418-9552-ED1449C461E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542E43CF-4876-4418-9552-ED1449C461E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542E43CF-4876-4418-9552-ED1449C461E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542E43CF-4876-4418-9552-ED1449C461E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0247D9E2-C354-451A-8538-1FE82FCB53DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0247D9E2-C354-451A-8538-1FE82FCB53DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0247D9E2-C354-451A-8538-1FE82FCB53DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0247D9E2-C354-451A-8538-1FE82FCB53DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C625CAF9-863F-44E3-A5E3-560B92A24521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C625CAF9-863F-44E3-A5E3-560B92A24521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C625CAF9-863F-44E3-A5E3-560B92A24521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C625CAF9-863F-44E3-A5E3-560B92A24521}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
