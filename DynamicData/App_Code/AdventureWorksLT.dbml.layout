@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 12, 18" name="AdventureWorksLT">
+  <DataContextMoniker Name="/AdventureWorksLTDataContext" />
+  <nestedChildShapes>
+    <classShape Id="35a9fb97-96de-4c95-a084-db55b142cad5" absoluteBounds="9.75, 2.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/AdventureWorksLTDataContext/BuildVersion" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e0c9485b-fedb-4a49-afa0-d1560e1cacad" absoluteBounds="9.765, 2.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="49f01eac-9cd9-45ba-b97e-8178bcb5c9ba" absoluteBounds="6.5, 4.125, 2, 5.0400211588541657">
+      <DataClassMoniker Name="/AdventureWorksLTDataContext/SalesOrderHeader" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9396e370-1362-4606-9b12-e6b7fe6c533e" absoluteBounds="6.515, 4.585, 1.9700000000000002, 4.4800211588541661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="89f193da-f527-4b80-a1b2-a070bb84fced" absoluteBounds="9.75, 9.375, 2, 2.5401025390624987">
+      <DataClassMoniker Name="/AdventureWorksLTDataContext/ErrorLog" />
+      <nestedChildShapes>
+        <elementListCompartment Id="094e8dba-5452-4fad-86fe-8614da3adf49" absoluteBounds="9.765, 9.835, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="34345a53-240d-421e-8b12-4292b0bea419" absoluteBounds="0.75, 5.375, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/AdventureWorksLTDataContext/Address" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e6554e24-60a9-4e4f-90c9-451a13379991" absoluteBounds="0.765, 5.835, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5256e278-f18c-4606-9a70-7f389674a02e" absoluteBounds="3.75, 0.75, 2, 3.6939111328124996">
+      <DataClassMoniker Name="/AdventureWorksLTDataContext/Customer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1484297f-d498-455c-99dc-2c60f4eb40cf" absoluteBounds="3.765, 1.21, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e84d8974-589a-40fe-a535-90d8654d73b6" absoluteBounds="3.5, 5.75, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/AdventureWorksLTDataContext/CustomerAddress" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b734489c-19ae-4081-9456-2217be0a78ce" absoluteBounds="3.515, 6.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="722aa7be-95c0-4923-b6c0-97896b710b5c" absoluteBounds="6.5, 10.5, 2, 4.0785139973958309">
+      <DataClassMoniker Name="/AdventureWorksLTDataContext/Product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f224e5d2-6263-41b6-8afe-97fa05865498" absoluteBounds="6.515, 10.96, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="97fd2f19-10d3-4b22-9638-c7742e0bc957" absoluteBounds="3.75, 10.5, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/AdventureWorksLTDataContext/ProductCategory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="293d3d3a-c3f4-48e3-9bbd-2557b2918c87" absoluteBounds="3.765, 10.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0b1d1eb1-9244-4b79-9e75-e4e39f92c3ba" absoluteBounds="3.75, 16.125, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/AdventureWorksLTDataContext/ProductDescription" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f8a962b9-dc06-414a-8bc8-59fd4a0ae093" absoluteBounds="3.765, 16.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f240e8cf-a0a0-418e-a3d6-2f4cc4558cc5" absoluteBounds="3.75, 13, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/AdventureWorksLTDataContext/ProductModel" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5b6f5b31-5b7a-4a68-8e81-a895e0b0df3f" absoluteBounds="3.765, 13.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="aff071d5-ad91-42b5-af93-4bae74466eed" absoluteBounds="6.5, 16, 2, 1.7708968098958362">
+      <DataClassMoniker Name="/AdventureWorksLTDataContext/ProductModelProductDescription" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8301e708-990c-449b-9249-2709e76fd732" absoluteBounds="6.515, 16.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6aebeb35-a074-4059-9833-bb065305dc31" absoluteBounds="9.25, 5.375, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/AdventureWorksLTDataContext/SalesOrderDetail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f97a8ae0-e003-493a-8661-7f2d65a65c1b" absoluteBounds="9.265, 5.835, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 7.74924967447917); (6.5 : 7.74924967447917)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AdventureWorksLTDataContext/Address/Address_SalesOrderHeader" />
+      <nodes>
+        <classShapeMoniker Id="34345a53-240d-421e-8b12-4292b0bea419" />
+        <classShapeMoniker Id="49f01eac-9cd9-45ba-b97e-8178bcb5c9ba" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 5.53125); (4.54166666666667 : 5.53125 : JumpStart); (4.70833333333333 : 5.53125 : JumpEnd); (6.5 : 5.53125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AdventureWorksLTDataContext/Address/Address_SalesOrderHeader1" />
+      <nodes>
+        <classShapeMoniker Id="34345a53-240d-421e-8b12-4292b0bea419" />
+        <classShapeMoniker Id="49f01eac-9cd9-45ba-b97e-8178bcb5c9ba" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 2.4374995); (7.5 : 2.4374995); (7.5 : 4.125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AdventureWorksLTDataContext/Customer/Customer_SalesOrderHeader" />
+      <nodes>
+        <classShapeMoniker Id="5256e278-f18c-4606-9a70-7f389674a02e" />
+        <classShapeMoniker Id="49f01eac-9cd9-45ba-b97e-8178bcb5c9ba" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.63544840494792); (3.5 : 6.63544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AdventureWorksLTDataContext/Address/Address_CustomerAddress" />
+      <nodes>
+        <classShapeMoniker Id="34345a53-240d-421e-8b12-4292b0bea419" />
+        <classShapeMoniker Id="e84d8974-589a-40fe-a535-90d8654d73b6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.625 : 4.4439111328125); (4.625 : 5.75)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AdventureWorksLTDataContext/Customer/Customer_CustomerAddress" />
+      <nodes>
+        <classShapeMoniker Id="5256e278-f18c-4606-9a70-7f389674a02e" />
+        <classShapeMoniker Id="e84d8974-589a-40fe-a535-90d8654d73b6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 11.3854484049479); (6.5 : 11.3854484049479)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AdventureWorksLTDataContext/ProductCategory/ProductCategory_Product" />
+      <nodes>
+        <classShapeMoniker Id="97fd2f19-10d3-4b22-9638-c7742e0bc957" />
+        <classShapeMoniker Id="722aa7be-95c0-4923-b6c0-97896b710b5c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.45552987154447 : 12.2708968098958); (4.45552987154447 : 12.5208968098958); (5.05849251552484 : 12.5208968098958); (5.05849251552484 : 12.2708968098958)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/AdventureWorksLTDataContext/ProductCategory/ProductCategory_ProductCategory" />
+      <nodes>
+        <classShapeMoniker Id="97fd2f19-10d3-4b22-9638-c7742e0bc957" />
+        <classShapeMoniker Id="97fd2f19-10d3-4b22-9638-c7742e0bc957" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 13.7892569986979); (6.5 : 13.7892569986979)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AdventureWorksLTDataContext/ProductModel/ProductModel_Product" />
+      <nodes>
+        <classShapeMoniker Id="f240e8cf-a0a0-418e-a3d6-2f4cc4558cc5" />
+        <classShapeMoniker Id="722aa7be-95c0-4923-b6c0-97896b710b5c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 16.9142976888021); (6.5 : 16.9142976888021)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AdventureWorksLTDataContext/ProductDescription/ProductDescription_ProductModelProductDescription" />
+      <nodes>
+        <classShapeMoniker Id="0b1d1eb1-9244-4b79-9e75-e4e39f92c3ba" />
+        <classShapeMoniker Id="aff071d5-ad91-42b5-af93-4bae74466eed" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 14.7708968098958); (6.125 : 15.1458968098958); (6.125 : 16.425896844401); (6.5 : 16.425896844401)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AdventureWorksLTDataContext/ProductModel/ProductModel_ProductModelProductDescription" />
+      <nodes>
+        <classShapeMoniker Id="f240e8cf-a0a0-418e-a3d6-2f4cc4558cc5" />
+        <classShapeMoniker Id="aff071d5-ad91-42b5-af93-4bae74466eed" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 13.2780582682292); (9.46875 : 13.2780582682292); (9.46875 : 7.9151025390625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AdventureWorksLTDataContext/Product/Product_SalesOrderDetail" />
+      <nodes>
+        <classShapeMoniker Id="722aa7be-95c0-4923-b6c0-97896b710b5c" />
+        <classShapeMoniker Id="6aebeb35-a074-4059-9833-bb065305dc31" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 6.64505126953125); (9.25 : 6.64505126953125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AdventureWorksLTDataContext/SalesOrderHeader/SalesOrderHeader_SalesOrderDetail" />
+      <nodes>
+        <classShapeMoniker Id="49f01eac-9cd9-45ba-b97e-8178bcb5c9ba" />
+        <classShapeMoniker Id="6aebeb35-a074-4059-9833-bb065305dc31" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
