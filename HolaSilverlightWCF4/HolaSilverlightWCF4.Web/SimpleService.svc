@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="HolaSilverlightWCF4.Web.SimpleService" CodeBehind="SimpleService.svc.cs" %>
